@@ -1,2 +1,3 @@
 # TestGitHub
-Git Hub tutorial
+
+TestGithub is a repository for showing the bare min........
